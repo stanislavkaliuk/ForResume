@@ -59,6 +59,11 @@
      <Compile Include="Assets\Dev Setup\Purchase Manager\Editor\PurchaseIdsGenerator.cs" />
      <Compile Include="Assets\Dev Setup\Utilities\Editor\ExtendedEditor.cs" />
      <Compile Include="Assets\Dev Setup\Xcode Editor\Editor\IOSPostProcess\IOSPostProcessBuild.cs" />
+     <Compile Include="Assets\Game\Scripts\Editor\MapGenerator.cs" />
+     <Compile Include="Assets\Game\Scripts\Editor\MapGeneratorWindow.cs" />
+     <Compile Include="Assets\Game\Scripts\Editor\ScriptableObjectGenerator.cs" />
+     <Compile Include="Assets\Game\Scripts\Editor\UnityEventDrawer.cs" />
+     <Compile Include="Assets\Game\Scripts\Tools\SceneManegement\Editor\SceneDependencyEditor.cs" />
      <None Include="Assets\Dev Setup\ProjectSettings\Editor\Resources\template-AndroidManifest.txt" />
      <None Include="Assets\Dev Setup\ProjectSettings\Editor\Resources\mainTemplate.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
